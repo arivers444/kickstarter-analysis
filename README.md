@@ -1,7 +1,8 @@
 # An Analysis of Kickstarter Campaigns
 Performing analysis on Kickstarter data to uncover trends.
 ---
-![Outcomes_Based_on_Launch_Date](C:\Users\angel\OneDrive\Desktop\Analysis Projects\Crowdfunding Analysis\Outcomes_Based_on_Launch_Date.png)
+![Outcomes_Based_on_Launch_Date](Outcomes_Based_on_Launch_Date.png)
 ---
-![Parent_Category_Outcomes](C:\Users\angel\OneDrive\Desktop\Analysis Projects\Crowdfunding Analysis\Parent_Category_Outcomes.png)
+![Parent_Category_Outcomes](Parent_Category_Outcomes.png)
 ---
+Based on findings, Louise should attempt to get her play produced for less than £4,000. 
