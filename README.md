@@ -12,3 +12,4 @@ Based on findings, Louise should attempt to get her play produced for less than 
 ![Challenge_Outcomes_Based_on_Goal](Challenge_Outcomes_Based_on_Goal.png)
 ---
 ![Challenge_Outcomes_Based_on_Launch_Date](Challenge_Outcomes_Based_on_Launch_Date.png)
+---
